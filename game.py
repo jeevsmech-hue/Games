@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.set_page_config(page_title="Number Guessing Game", page_icon="🎯")
+st.set_page_config(page_title="DJ's Number Guessing Game", page_icon="🎯")
 st.title("🎯 Number Guessing Game")
 st.write("I'm thinking of a number between **1 and 100**!")
 
